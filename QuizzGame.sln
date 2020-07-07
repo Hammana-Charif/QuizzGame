@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizGameV1", "QuizzGame\QuizGameV1.csproj", "{7C39D557-CA55-449C-81F9-E5A108C62580}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizGameV3", "QuizXav\QuizGameV3.csproj", "{064B55B4-2BE6-4A96-BACB-79A544D9BA4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizGameV2", "QuizXav2\QuizGameV2.csproj", "{750B1FC8-EA07-4E61-88C3-3CBFC5EA44EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C39D557-CA55-449C-81F9-E5A108C62580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C39D557-CA55-449C-81F9-E5A108C62580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C39D557-CA55-449C-81F9-E5A108C62580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C39D557-CA55-449C-81F9-E5A108C62580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064B55B4-2BE6-4A96-BACB-79A544D9BA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064B55B4-2BE6-4A96-BACB-79A544D9BA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064B55B4-2BE6-4A96-BACB-79A544D9BA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064B55B4-2BE6-4A96-BACB-79A544D9BA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750B1FC8-EA07-4E61-88C3-3CBFC5EA44EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750B1FC8-EA07-4E61-88C3-3CBFC5EA44EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750B1FC8-EA07-4E61-88C3-3CBFC5EA44EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750B1FC8-EA07-4E61-88C3-3CBFC5EA44EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD08212-DB40-4691-839F-73B5D0BDCAFE}
+	EndGlobalSection
+EndGlobal

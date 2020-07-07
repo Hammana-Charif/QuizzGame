@@ -1,0 +1,6 @@
+Quel est le nom du héros de Metal Gear Solid?
+Snake|Mario|Link
+Quel est le nom de la ville mythique de Final Fantasy 7?
+Midgar|Orgrimmar|Hiryul
+Dans quel jeu se trouve l'arme surpuissante "BFG"?
+Quake 3|Halo|Half Life

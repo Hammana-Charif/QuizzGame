@@ -1,0 +1,48 @@
+"thème": "Manga"
+"quizz": 
+  {
+   "fr": 
+       [
+	{
+         "débutant": 
+		    [
+		     {
+		      "id" : 1,
+		      "question": Quel est le nom de l'héroïne vivant dans la "décharge", sous "Zalem"?
+		      "propositions": 
+				     [
+				      "[Gally]"
+				      "[Arale]"
+				      "[Sailor Moon]"
+				     ],
+		      "réponse": "Gally",
+		      "anecdote" : "L'héroïne mythique de la saga de  Yukito Kishiro, se nommerait réellement Yoko !"
+		     },
+		     {
+		      "id" : 2,
+		      "question": Dans "Akira", qui est le meilleur ami, mais aussi le pire ennemi de Kaneda?
+		      "propositions": 
+				     [
+				      "[Tetsuo]"
+				      "[Kei]"
+				      "[Kaori]"
+				     ],
+		      "réponse": "Tetsuo",
+		      "anecdote" : "Tetsuo possède ainsi de grandes capacités de psychokinèsie, de régénération, de télépathie et de téléportation."
+		     },
+		     {
+		      "id" : 3,
+		      "question": Dans la saga Dragon Ball, quelle est le nom de l'attaque ultime, qui permet à Sangoku de se débarasser de Buu?
+		      "propositions": 
+				     [
+				      "[Genkidama]"
+				      "[Kaioken]"
+				      "[Kamehamea]"
+				     ],
+		      "réponse": "Genkidama",
+		      "anecdote" : "Savez-vous que ce pouvoir extraordinaire n'émane pas de Sangoku, mais des milliards d'êtres vivants, qui partage un peu de leur "ki" pour former le Genkidama?"
+		     }
+		    ]
+	}
+       ]	
+  }

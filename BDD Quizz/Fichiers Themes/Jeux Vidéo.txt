@@ -1,0 +1,50 @@
+"thème": "Jeux Vidéo"
+"quizz": 
+  {
+   "fr": 
+       [
+	{
+         "débutant": 
+		    [
+		     {
+		      "id" : 1,
+		      question": Quel est le nom du héros de Metal Gear Solid?
+		      "propositions": 
+				     [
+				      "[Snake]"
+				      "[Mario]"
+				      "[Link]"
+				     ],
+		      "réponse": "Snake",
+		      "anecdote" : "Le mythique héro, dons le papa n'est autre qu'Hideo Kojima, est apparu en 1987 dans le jeu Metal Gear, sur la Nintendo NES."
+		     },
+		     {
+		      "id" : 2,
+		      question": Quel est le nom de la ville mythique de Final Fantasy 7?
+		      "propositions": 
+				     [
+				      "[Midgar]"
+				      "[Orgrimmar]"
+				      "[Hiryul]"
+				     ],
+		      "réponse": "Midgar",
+		      "anecdote" : "Midgar est la ville principale de Final Fantasy VII. Elle a la particularité d'être une ville-réacteur, car elle se situe au-dessus d'une énorme source de Mako."
+		     },
+		     {
+		     {
+		      "id" : 3,
+		      "question": Dans quel jeu se trouve l'arme surpuissante "BFG"?
+		      "propositions": 
+				     [
+				      "[Quake 3]"
+				      "[Halo]"
+				      "[Half Life]"
+				     ],
+		      "réponse": "Quake 3",
+		      "anecdote" : " BFG 10K, une sorte de lance roquette/plasma surpuissant disposant d’une cadence de tir améliorée, hommage au « BFG 9000 » de Doom."
+		     }
+		    ]
+	}
+       ]	
+  }
+

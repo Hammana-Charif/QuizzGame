@@ -1,0 +1,253 @@
+**
+**  OpenQuizzDB
+**  Fournisseur de contenu libre
+**
+**  Quizz : HÃ©ros Marvel
+** [ Des super-hÃ©ros qui nous fascinent ]
+**  Niveau de difficultÃ© : 3 / 5
+**  RÃ©dacteur : Philippe Bresoux
+**
+**  https://www.openquizzdb.org
+**
+
+[DÃ©butant]
+Question: Dans quelles aventures retrouve-t-on les personnages de LoÃ¯s et Clark ?
+A > Superman *
+B > Spider-Man
+C > Batman
+D > Hulk
+Anecdote: Dans Superman, Clark Kent et LoÃ¯s Lane, deux des hÃ©ros de la saga, sont journalistes au Daily Planet.
+
+[DÃ©butant]
+Question: Dans les X-Men, quelle substance constitue le squelette de Wolverine ?
+A > Adamantium *
+B > Vibranium
+C > Cavorite
+D > Neutronium
+Anecdote: L'adamantium, alliage de mÃ©tal imaginaire le plus rÃ©sistant de tous les mÃ©taux imaginaires connus, ne s'oxyde pas et ne rouille pas.
+
+[DÃ©butant]
+Question: Quel est le nom de Spider-Man, apparu pour la premiÃ¨re fois en 1962 ?
+A > Peter Parker *
+B > John Parker
+C > Tom Parker
+D > Alan Parker
+Anecdote: Peter Parker est le fils unique de Richard et Mary Parker, tuÃ©s alors qu'il Ã©tait encore fort jeune.
+
+[DÃ©butant]
+Question: Quel jeune garÃ§on est le principal compagnon d'armes de Batman ?
+A > Robin *
+B > Tim Drake
+C > Mystek
+D > Superboy
+Anecdote: Le nom du compagnon de Batman vient du terme anglais Â« robin Â» signifiant Â« rouge-gorge Â».
+
+[DÃ©butant]
+Question: Quel super-hÃ©ros ne se sÃ©pare jamais de son marteau forgÃ© par les nains ?
+A > Thor *
+B > Venom
+C > Flash
+D > Bizarro
+Anecdote: Thor est connu pour Ãªtre l'un des membres fondateurs et membre rÃ©current de l'Ã©quipe des Vengeurs.
+
+[DÃ©butant]
+Question: Quelle couleur est associÃ©e Ã  Hulk, qui peut Ãªtre traduit par Â« mastodonte Â» ?
+A > Le vert *
+B > Le rouge
+C > Le jaune
+D > Le bleu
+Anecdote: Aux Ã‰tats-Unis, Hulk a Ã©tÃ© classÃ© septiÃ¨me parmi les meilleurs personnages de Comic Books.
+
+[DÃ©butant]
+Question: Quel super-hÃ©ros Ã  la force surhumaine ressemble Ã  un Ãªtre de pierre ?
+A > La Chose *
+B > Plastic Man
+C > Superboy
+D > Hawkman
+Anecdote: La Chose, Ã  la force surhumaine, Ã  acquis ses super-pouvoirs lors de son irradiation aux rayons cosmiques.
+
+[DÃ©butant]
+Question: Mis Ã  part Firestorm, quel super-hÃ©ros peut crÃ©er Ã  volontÃ© une enveloppe de feu autour de lui ?
+A > La Torche Humaine *
+B > Mr Fantastique
+C > Gambit
+D > Blade
+Anecdote: MÃªme sans ses super-pouvoirs, c'est une vÃ©ritable Â« tÃªte brulÃ©e Â» mÃªme si les annÃ©es aidant, il a acquis un peu de maturitÃ©.
+
+[DÃ©butant]
+Question: Quel super-hÃ©ros porte un costume inspirÃ© du drapeau amÃ©ricain ?
+A > Captain America *
+B > Blade
+C > Iron Man
+D > Tigra
+Anecdote: Captain America est un combattant hors pair, un chef-nÃ© et un stratÃ¨ge militaire accompli.
+
+[DÃ©butant]
+Question: Si je vous dis Bruce Wayne, Ã  qui pensez-vous immÃ©diatement ?
+A > Batman *
+B > Superman
+C > Spider-Man
+D > Hawkman
+Anecdote: Bien que ce soit le succÃ¨s de Superman qui ait amenÃ© sa crÃ©ation, il se dÃ©tache de ce modÃ¨le puisqu'il n'a aucun pouvoir surhumain.
+
+[ConfirmÃ©]
+Question: Qui est Logan dans la bande dessinÃ©e de Marvel Comics X-Men ?
+A > Wolverine *
+B > Caliban
+C > Cyclope
+D > Colossus
+Anecdote: Le vÃ©ritable nom de Wolverine est James Howlett, mais ayant oubliÃ© son passÃ©, il se fait appeler Logan.
+
+[ConfirmÃ©]
+Question: De quel groupe de super-hÃ©ros Mr Fantastique est-il membre ?
+A > Quatre Fantastiques *
+B > X-Men
+C > Thunderbolts
+D > Illuminati
+Anecdote: Red Richards, dit Mr Fantastique, possÃ¨de le pouvoir de rendre son corps totalement mallÃ©able.
+
+[ConfirmÃ©]
+Question: Quel humain devient surpuissant grÃ¢ce Ã  une armure de haute technologie ?
+A > Iron Man *
+B > Thor
+C > Wolverine
+D > Cyclope
+Anecdote: Cette armure pouvant voler jusqu'Ã  atteindre Mach 8 lui confÃ¨re une force trÃ¨s supÃ©rieure Ã  celle d'un humain.
+
+[ConfirmÃ©]
+Question: Laquelle de ces propositions dÃ©signe un ennemi emblÃ©matique de Spider-Man ?
+A > Le Bouffon vert *
+B > Le LÃ©zard
+C > Thanos
+D > VoÃ¯d
+Anecdote: Le Bouffon vert possÃ¨de une capacitÃ© de rÃ©gÃ©nÃ©ration rapide qui lui permet de guÃ©rir rapidement selon la gravitÃ© de ses blessures.
+
+[ConfirmÃ©]
+Question: Quelle super-hÃ©roÃ¯ne portait Ã  ses dÃ©buts un masque de chat avec une robe ?
+A > Catwoman *
+B > Galactus
+C > Loki
+D > SÃ©lÃ©nÃ©
+Anecdote: Dans la culture populaire, Catwoman est devenue un symbole de la femme fatale, associant Ã©lÃ©gance, indÃ©pendance et beautÃ©.
+
+[ConfirmÃ©]
+Question: Pour quel journal travaille Clark Kent, alias Superman ?
+A > The Daily Planet *
+B > The Daily Press
+C > The New Daily
+D > The Daily News
+Anecdote: On retrouve le journal Daily Planet dans toutes les versions existantes des aventures de Superman.
+
+[ConfirmÃ©]
+Question: Quel super-hÃ©ros ayant perdu la vue possÃ¨de des organes sensoriels dÃ©veloppÃ©s ?
+A > Daredevil *
+B > Captain America
+C > Superman
+D > Flash
+Anecdote: Daredevil a (ironiquement) obtenu ses pouvoirs en perdant la vue Ã  l'Ã¢ge de neuf ans, sauvant ainsi un passant aveugle.
+
+[ConfirmÃ©]
+Question: Qui, dans les Comics, doit garder son corps Ã  une tempÃ©rature extrÃªmement basse ?
+A > Mister Freeze *
+B > Bizarro
+C > Cyborg
+D > Daredevil
+Anecdote: Mr Freeze se dit dÃ©pourvu de sentiments mais il semble qu'une humanitÃ© persiste en lui, que Batman rÃ©ussit parfois Ã  raisonner.
+
+[ConfirmÃ©]
+Question: Quel cÃ©lÃ¨bre archer du monde DC Comics est inspirÃ© de Robin des Bois ?
+A > Green Arrow *
+B > Blade
+C > Iron Man
+D > Tigra
+Anecdote: InspirÃ© de Robin des Bois, Green Arrow ne possÃ¨de aucun pouvoir surhumain, mais il reste le meilleur archer de tout l'univers DC.
+
+[ConfirmÃ©]
+Question: Quel super-vilain de DC Comics est en fait un clone ratÃ© de Superman ?
+A > Bizarro *
+B > Venom
+C > Blade
+D > Galactus
+Anecdote: Avant la crise des terres multiples, Bizarro possÃ©dait tous les pouvoirs de Superman.
+
+[Expert]
+Question: Quelle super-hÃ©roÃ¯ne issue d'une tribu d'amazones possÃ¨de un lasso magique ?
+A > Wonder Woman *
+B > Catwoman
+C > Ultron
+D > Bullseye
+Anecdote: Dans la plupart des adaptations, Wonder Woman est reprÃ©sentÃ©e Ã©tant la princesse Diana issue d'une tribu d'amazones.
+
+[Expert]
+Question: Quel super-hÃ©ros crÃ©Ã© par Marvel Comics est aveugle de naissance ?
+A > Stick *
+B > Cyclope
+C > Flash
+D > Thor
+Anecdote: Stick peut se dÃ©placer en silence de telle sorte que mÃªme le radar et l'ouÃ¯e renforcÃ©e de Daredevil ne peuvent le dÃ©tecter.
+
+[Expert]
+Question: Combien compte-t-on environ de hÃ©ros dans les Comics de Marvel ?
+A > 5 000 *
+B > 4 000
+C > 3 000
+D > 2 000
+Anecdote: Martin Goodman est le fondateur de Timely Comics qui est Ã  l'origine de Marvel Comics.
+
+[Expert]
+Question: Quelle hÃ©roÃ¯ne de Daredevil est une tueuse professionnelle ?
+A > Elektra *
+B > Wonder Woman
+C > Catwoman
+D > Ultron
+Anecdote: Elektra sait maÃ®triser de nombreuses armes, notamment orientales, telles que les sais qu'elle utilise au combat, et les armes Ã  feu.
+
+[Expert]
+Question: Quel est le surnom de Joseph Green, super-hÃ©ros crÃ©Ã© par Marvel Comics ?
+A > Gauntlet *
+B > Flash
+C > Hulk
+D > Thor
+Anecdote: Gauntlet possÃ¨de un gant mÃ©tallique gigantesque (d'oÃ¹ son nom) qu'il porte Ã  la main droite.
+
+[Expert]
+Question: Quel super-hÃ©ros possÃ¨de les mÃªmes pouvoirs que Spider-Man ?
+A > Venom *
+B > Bizarro
+C > Green Arrow
+D > Blade
+Anecdote: Venom reste l'un des personnages les plus endurants et les plus populaires de la saga Spider-Man.
+
+[Expert]
+Question: Quel super-hÃ©ros est physiquement le plus fort du groupe des Teen Titans ?
+A > Cyborg *
+B > Raven
+C > Beast Boy
+D > Red Robin
+Anecdote: Cyborg est capable de s'auto-rÃ©parer ou de faire agir ses membres mÃªme s'ils sont dÃ©tachÃ©s du reste de son corps.
+
+[Expert]
+Question: Lequel de ces super-hÃ©ros est probablement le plus rapide du monde ?
+A > Flash *
+B > Cyborg
+C > Raven
+D > Beast Boy
+Anecdote: En France tout comme en Europe, Flash a connu plusieurs revues, le plus souvent en petit format.
+
+[Expert]
+Question: Quelle super-hÃ©roÃ¯ne proche du Docteur Strange a Ã©tÃ© crÃ©Ã©e en 1964 ?
+A > ClÃ©a *
+B > Monica
+C > FÃ©lina
+D > Elsa
+Anecdote: AssidÃ»ment entraÃ®nÃ©e par le Docteur Strange, ClÃ©a est une sorciÃ¨re de bon niveau.
+
+[Expert]
+Question: Quelle super-hÃ©roÃ¯ne Marvel fut crÃ©Ã©e par Roger Stern et John Romita Jr. ?
+A > Monica Rambeau *
+B > FÃ©lina
+C > Elsa Bloodstone
+D > Clea
+Anecdote: Cette super-hÃ©roÃ¯ne, plus connue sous le nom de Captain Marvel, a Ã©galement Ã©tÃ© surnommÃ©e Photon et Pulsar.
+
+* = Bonne rÃ©ponse

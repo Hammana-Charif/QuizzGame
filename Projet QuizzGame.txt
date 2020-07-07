@@ -1,0 +1,38 @@
+Jeu du Quizz
+
+Premier jet, sans s'être inspiré de ce qui se fait déjà. Il faudra regarder les jeux de quizz sur internet, pour s'en inspirer.
+
+Objectif : 	
+	Un jeu de questions/réponses, pour un joueur. Le joueur se voit proposer des thèmes au choix, parmis un nombre de thèmes qui reste à détermier.
+	Les question s'enchaînent et en fonction des réponses, le joueur obtient un score à la fin de la partie.
+
+A determiner :
+	-Le nombre de thèmes
+	-Le nombre de phases de jeu (phase étant une série de questions pour un thème)
+	-Le nombre de questions par phase
+	-Des niveaux de difficultés ou pas
+	-Un timer pour les réponses
+	
+Mécanique :
+	-Le jeu démarre par la proposition aléatoire entre 3 thèmes
+	-Les questions sont affichées de manière aléatoire par thème choisi
+	-Les réponses associées sont affichées en fonction de la question
+	-Le joueur choisi une réponse, constate le résultat et passe à la suivante
+	-La fin de partie intervient à la fin des cycles de thèmes/questions, avec l'affichage des scores.
+
+Classes canditates :
+	
+	Remarques : est entendu que les questions seront stockées dans un fichier .txt. Donc à voir la pértinence de certaines classes candidates ci-dessous.
+
+	-Absract Theme mother : à voir si il est pas préférable de faire une interface, ou carrément un simple Enum?
+	-Theme daughters : résponsabilité de générer les thèmes et appeler les questions
+
+	-Abstract Question mother
+	-Question daughter : résponsabilité de générer les questions à l'appel de la classe Theme
+		=> envisager l'utilisation de StringBuilder?
+
+	-GenerateRandNum ou Dice : à voir pour l'utilité d'une classe "dé", dans l'idée de difficultés multiples, des questions plus dures, et un temps pour répondre
+	
+	-Timer : une classe qui permet de gérer le timing sur les réponses?
+
+	-Game.Service : résponsabilité de rassembler l'ensemble des executions du programme
